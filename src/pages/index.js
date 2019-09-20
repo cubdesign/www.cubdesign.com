@@ -27,7 +27,7 @@ const IndexPage = () => (
         </p>
         <p>
             LinkedIn:<br/>
-            <a href="https:/www.linkedin.com/in/takeo-tamura">https:/www.linkedin.com/in/takeo-tamura</a>
+            <a href="https://www.linkedin.com/in/takeo-tamura/">https://www.linkedin.com/in/takeo-tamura/</a>
         </p>
         <p>
             Instagram:<br/>
