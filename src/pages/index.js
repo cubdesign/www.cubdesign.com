@@ -9,7 +9,11 @@ const IndexPage = () => (
     <Layout>
         <SEO title="Home"/>
         <h1>Always a new thing. </h1>
+        <p>Takeo Tamura（　田村　岳夫　）</p>
 
+        <p>
+            Lead Engineer @INFAS PUBLICATIONS  Designer, Full-stack Developer. ❤️ 🧘‍️ ❤️ Fashion ❤️ TOKYO ❤️ Serverless ❤️ UX ❤️ WWD ❤️ 🍺 & 🍣
+        </p>
         <p>
             WWD Lead Engineer:<br/>
             <a href="https://github.com/cubdesign">https://www.wwdjapan.com/</a>
