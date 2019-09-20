@@ -12,7 +12,7 @@ const IndexPage = () => (
         <p>Takeo Tamura（　田村　岳夫　）</p>
 
         <p>
-            Lead Engineer @INFAS PUBLICATIONS  Designer, Full-stack Developer. ❤️ 🧘‍️ ❤️ Fashion ❤️ TOKYO ❤️ Serverless ❤️ UX ❤️ WWD ❤️ 🍺 & 🍣
+             Lead Engineer @INFAS PUBLICATIONS  Designer, Full-stack Developer. ❤️ 🧘‍️ ❤️ Fashion ❤️ TOKYO ❤️ Serverless ❤️ UX ❤️ WWD ❤️ 🍺 & 🍣
         </p>
         <p>
             WWD Lead Engineer:<br/>
