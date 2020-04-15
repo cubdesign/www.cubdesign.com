@@ -16,11 +16,15 @@ const IndexPage = () => (
         </p>
         <p>
             WWD Lead Engineer:<br/>
-            <a href="https://github.com/cubdesign">https://www.wwdjapan.com/</a>
+            <a href="https://www.wwdjapan.com/">https://www.wwdjapan.com/</a>
         </p>
         <p>
             Github:<br/>
             <a href="https://github.com/cubdesign">https://github.com/cubdesign</a>
+        </p>
+
+        <p>note:<br/>
+            <a href="https://note.com/cubdesign">https://note.com/cubdesign</a>
         </p>
         <p>Twitter:<br/>
             <a href="https://twitter.com/cubdesign">https://twitter.com/cubdesign</a>
