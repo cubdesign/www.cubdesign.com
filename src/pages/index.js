@@ -19,6 +19,11 @@ const IndexPage = () => (
             <a href="https://www.wwdjapan.com/">https://www.wwdjapan.com/</a>
         </p>
         <p>
+            TOKION Lead Engineer:<br/>
+            <a href="https://tokion.jp/en/">https://tokion.jp/en/</a><br />
+            <a href="https://tokion.jp">https://tokion.jp/</a>
+        </p>
+        <p>
             Github:<br/>
             <a href="https://github.com/cubdesign">https://github.com/cubdesign</a>
         </p>
