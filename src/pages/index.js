@@ -12,20 +12,8 @@ const IndexPage = () => (
     <p>Takeo Tamura（　田村　岳夫　）</p>
 
     <p>
-      休職中。Lead Engineer @INFAS PUBLICATIONS Designer, Full-stack Developer.
-      ❤️ 🧘‍️ ❤️ Fashion ❤️ TOKYO ❤️ Serverless ❤️ UX ❤️ WWD ❤️ 🍺 & 🍣
-    </p>
-    <p>
-      WWD Lead Engineer:
-      <br />
-      <a href="https://www.wwdjapan.com/">https://www.wwdjapan.com/</a>
-    </p>
-    <p>
-      TOKION Lead Engineer:
-      <br />
-      <a href="https://tokion.jp/en/">https://tokion.jp/en/</a>
-      <br />
-      <a href="https://tokion.jp">https://tokion.jp/</a>
+      フリーランス。Engineer, Designer, Full-stack Developer.
+      ❤️ 🧘‍️ ❤️ Fashion ❤️ TOKYO ❤️ Serverless ❤️ UX ❤️ 🍺 & 🍣
     </p>
     <p>
       Github:
