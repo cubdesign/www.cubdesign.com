@@ -61,6 +61,11 @@ const IndexPage = () => (
         https://www.instagram.com/cubdesign
       </a>
     </p>
+    <p>
+      Tech Blog
+      <br />
+      <a href="https://webkei.dev">https://webkei.dev</a>
+    </p>
   </Layout>
 )
 
