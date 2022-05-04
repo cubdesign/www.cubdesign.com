@@ -64,6 +64,12 @@ const IndexPage = () => (
     <p>
       Tech Blog
       <br />
+      <a href="https://dev.cubdesign.com">https://dev.cubdesign.com</a>
+    </p>
+
+    <p>
+      Tech Blog 2
+      <br />
       <a href="https://webkei.dev">https://webkei.dev</a>
     </p>
   </Layout>
